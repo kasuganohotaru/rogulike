@@ -1,0 +1,15 @@
+  {
+    "Level": 1,
+    "Point": 10,
+    "Exp": 0,
+    "Heath": 100,
+    "Defense": 1,
+    "Damage": 1,
+    "CriticalHitRate": 0,
+    "CriticalHitDamage": 0,
+    "STR": 0,
+    "AGI": 0,
+    "VIT": 0,
+    "DEX": 0,
+    "LUK": 0
+  }
